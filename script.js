@@ -52,6 +52,17 @@ open_file();
 
 
 
+/*
+    Want to add :
+        
+        1. comments in the command file and it would be ignored. In this instructions will be given for commands.
+        
+        2. how to choose workspace for specific program by terminal ? And then add the workspace feature, so that specific program will open in specific workspaces.
+ 
+*/
+
+
+
 
 
 
