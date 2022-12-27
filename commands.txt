@@ -1,0 +1,9 @@
+
+subl : /home/suraj/Documents/ZTM/Web_Development/Project/smart-brain-api : 1
+
+cd : /home/suraj/Documents/ZTM/Web_Development/Project/smart-brain-api : 1
+
+
+subl : /home/suraj/Documents/ZTM/Web_Development/Project/facerecognitionbrain : 3
+
+cd : /home/suraj/Documents/ZTM/Web_Development/Project/facerecognitionbrain : 3
